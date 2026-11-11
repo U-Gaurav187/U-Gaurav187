@@ -4,8 +4,8 @@
 ### *AI & Data Science Student • Pragmatic Tool Builder • ML Explorer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-U--Gaurav187-181717?style=for-the-badge&logo=github)](https://github.com/U-Gaurav187)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Portfolio / Web](https://img.shields.io/badge/Web-Live_Apps-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://edip.run.place)
+[![Email](https://img.shields.io/badge/Email-gauravu2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravu2007@gmail.com)
 
 <br/>
 
@@ -69,6 +69,7 @@ React • Vite • Tailwind • JS/TS                 Python • Android/Kotlin 
 
 <div align="center">
 
-💬 *Always open to exploring unconventional AI ideas, experimenting with new models, and building clean solutions.*
+💬 *Always open to exploring unconventional AI ideas, experimenting with new models, and building clean solutions.*  
+📫 **Reach me directly:** [gauravu2007@gmail.com](mailto:gauravu2007@gmail.com)
 
 </div>
