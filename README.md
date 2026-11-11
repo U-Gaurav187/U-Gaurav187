@@ -61,8 +61,8 @@ React • Vite • Tailwind • JS/TS                 Python • Android/Kotlin 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=U-Gaurav187&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaurav's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U-Gaurav187&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=U-Gaurav187&show_icons=true&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=U-Gaurav187&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </div>
 
 ---
